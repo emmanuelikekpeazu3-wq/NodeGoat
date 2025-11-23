@@ -1,4 +1,3 @@
-2) Create .github/workflows/gitleaks.yml (secret detection)
 name: gitleaks-scan
 
 on:
